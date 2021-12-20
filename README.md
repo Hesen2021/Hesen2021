@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hesen2021
-- 👀 I’m interested in java
-- 🌱 I’m currently learning ShangHai in China
+- 👀 I’m interested in java engineering
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me caisc1997@163.com
 
